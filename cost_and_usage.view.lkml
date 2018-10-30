@@ -1,5 +1,5 @@
 view: cost_and_usage {
-  sql_table_name: athena_billing.cost_and_usage_raw ;;
+  sql_table_name: cost_and_usage ;;
   suggestions: no
 
   dimension: bill_billing_entity {
