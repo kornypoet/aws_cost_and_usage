@@ -1,4 +1,4 @@
-connection: "aws_optimizer"
+connection: "athena_billing"
 
 # include all the views
 include: "*.view"
